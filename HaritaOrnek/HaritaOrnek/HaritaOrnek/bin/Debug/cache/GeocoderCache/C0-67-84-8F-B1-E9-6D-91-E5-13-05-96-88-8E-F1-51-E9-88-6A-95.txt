@@ -1,0 +1,64 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Küçükköy",
+               "short_name" : "Küçükköy",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Karayolları",
+               "short_name" : "Karayolları",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Gaziosmanpaşa",
+               "short_name" : "Gaziosmanpaşa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Küçükköy, Karayolları, Gaziosmanpaşa/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0863777,
+                  "lng" : 28.9086046
+               },
+               "southwest" : {
+                  "lat" : 41.0801014,
+                  "lng" : 28.9001251
+               }
+            },
+            "location" : {
+               "lat" : 41.08363780000001,
+               "lng" : 28.9044223
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0863777,
+                  "lng" : 28.9086046
+               },
+               "southwest" : {
+                  "lat" : 41.0801014,
+                  "lng" : 28.9001251
+               }
+            }
+         },
+         "place_id" : "ChIJzcZkcVawyhQRM0aLE3OkBcU",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

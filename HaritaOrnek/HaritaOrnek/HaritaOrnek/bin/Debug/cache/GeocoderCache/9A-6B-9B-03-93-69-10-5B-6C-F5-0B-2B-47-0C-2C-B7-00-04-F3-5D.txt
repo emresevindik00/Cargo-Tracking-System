@@ -1,0 +1,64 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "#69-76",
+               "short_name" : "#69-76",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida El Dorado",
+               "short_name" : "Av. El Dorado",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Engativá",
+               "short_name" : "Engativá",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bogotá",
+               "short_name" : "Bogotá",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bogotá",
+               "short_name" : "Bogotá",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "110931",
+               "short_name" : "110931",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av. El Dorado ##69-76, Bogotá, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6593617,
+               "lng" : -74.10588609999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.660710680291502,
+                  "lng" : -74.1045371197085
+               },
+               "southwest" : {
+                  "lat" : 4.658012719708498,
+                  "lng" : -74.1072350802915
+               }
+            }
+         },
+         "place_id" : "ChIJOZhUxHmbP44R5FD12td_-l4",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

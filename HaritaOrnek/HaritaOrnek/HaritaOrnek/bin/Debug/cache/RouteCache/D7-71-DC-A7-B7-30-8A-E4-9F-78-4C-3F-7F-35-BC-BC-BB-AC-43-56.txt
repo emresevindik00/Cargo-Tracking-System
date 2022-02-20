@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJebk1ymiPKBURADgibxaoN9M",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJebk1ymiPKBURADgibxaoN9M",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 36.9914144,
+               "lng" : 35.3308272
+            },
+            "southwest" : {
+               "lat" : 36.9914144,
+               "lng" : 35.3308272
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Reşatbey, Ordu Cd. 12 C, 01120 Seyhan/Adana, Turkey",
+               "end_location" : {
+                  "lat" : 36.9914144,
+                  "lng" : 35.3308272
+               },
+               "start_address" : "Reşatbey, Ordu Cd. 12 C, 01120 Seyhan/Adana, Turkey",
+               "start_location" : {
+                  "lat" : 36.9914144,
+                  "lng" : 35.3308272
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 36.9914144,
+                        "lng" : 35.3308272
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eTurhan Cemal Beriker Blv.\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eD400\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "i{w`FupsvE"
+                     },
+                     "start_location" : {
+                        "lat" : 36.9914144,
+                        "lng" : 35.3308272
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "i{w`FupsvE"
+         },
+         "summary" : "Turhan Cemal Beriker Blv./D400",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,253 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRYl9Ar-wyhQRwBAh5JXE3RA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJn_LvsZuwyhQRs0m8mAAjGnc",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.0603915,
+               "lng" : 28.9337598
+            },
+            "southwest" : {
+               "lat" : 41.0534094,
+               "lng" : 28.9216654
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.8 km",
+                  "value" : 1765
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 403
+               },
+               "end_address" : "Sarıgöl, Islambey Cad. No:132, 34055 Gaziosmanpaşa/İstanbul, Turkey",
+               "end_location" : {
+                  "lat" : 41.0535007,
+                  "lng" : 28.9216654
+               },
+               "start_address" : "Pazariçi, Şehnaz Cd. No:34, 34240 Gaziosmanpaşa/İstanbul, Turkey",
+               "start_location" : {
+                  "lat" : 41.0603915,
+                  "lng" : 28.933424
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 144
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 41.0591406,
+                        "lng" : 28.9337598
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eGül Bahar Sk.\u003c/b\u003e toward \u003cb\u003eŞeref Sk\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mrryF{`roDhAo@HEJAj@ERAf@Ap@A"
+                     },
+                     "start_location" : {
+                        "lat" : 41.0603915,
+                        "lng" : 28.933424
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 206
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 41.059052,
+                        "lng" : 28.9313156
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eOrdu Cd.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sjryF_croDHrEAFAD?F?H?FBn@?NFnB?z@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.0591406,
+                        "lng" : 28.9337598
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 189
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 41.0591327,
+                        "lng" : 28.9292914
+                     },
+                     "html_instructions" : "At the roundabout, continue straight to stay on \u003cb\u003eOrdu Cd.\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "ajryFwsqoDA?A?A?A?A@A?A?A@A@A@?@A@A@?@?@?@?@A@?B?@?@?@@B?@?B?@@@?B?@@@?@@@?@@@?@@@@??@@??@@?@??@@?@?@?Hj@@b@@J?LAP?TALCNAFG^CPANAL?LCt@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.059052,
+                        "lng" : 28.9313156
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "85 m",
+                        "value" : 85
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 41.0584289,
+                        "lng" : 28.9291019
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e6. Sk.\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eKarlıtepe Sokağı\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Karlıtepe Sokağı\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qjryFagqoDN?jACd@RHT"
+                     },
+                     "start_location" : {
+                        "lat" : 41.0591327,
+                        "lng" : 28.9292914
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 592
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 114
+                     },
+                     "end_location" : {
+                        "lat" : 41.0573035,
+                        "lng" : 28.922274
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eGöçmenler Sk.\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "efryF{eqoDZxALj@ZvAPz@bAdFDLHvA@VB`@HxDD~AD~@LjEJnC"
+                     },
+                     "start_location" : {
+                        "lat" : 41.0584289,
+                        "lng" : 28.9291019
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 220
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 41.0555733,
+                        "lng" : 28.9234495
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKuşbaş Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "c_ryFe{ooDl@Sh@WNEh@KNI^Qf@UFGFEFGHI@CRYXY\\c@"
+                     },
+                     "start_location" : {
+                        "lat" : 41.0573035,
+                        "lng" : 28.922274
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 274
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 41.0534094,
+                        "lng" : 28.9223106
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMeşatlık Dere Sk.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "itqyFqbpoDh@Bt@JPABAPAF@HBJHJLJRDHB@DBVDh@HRRHBF?H?J?F@B@@?B@@@D@@@BBBDDD@@f@v@NX"
+                     },
+                     "start_location" : {
+                        "lat" : 41.0555733,
+                        "lng" : 28.9234495
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "55 m",
+                        "value" : 55
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 41.0535007,
+                        "lng" : 28.9216654
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eIslambey Cad.\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yfqyFm{ooDAPCJAJCNAN?LAJAZ"
+                     },
+                     "start_location" : {
+                        "lat" : 41.0534094,
+                        "lng" : 28.9223106
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mrryF{`roDrAu@v@Gz@Cp@AHrECL?PJvDCz@C?IDEL?RDRDHD@B@@?JnA?`AOdAG|@Ct@N?jACd@Rd@nBh@bCtA`HDLHvADx@NxGRjGJnCl@Sx@]x@UfAg@NMf@o@v@}@h@Bt@JTCX?TLV`@HJ\\Hh@HRRPB`@BLDNPh@x@NXAPEVE^Ct@"
+         },
+         "summary" : "Göçmenler Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

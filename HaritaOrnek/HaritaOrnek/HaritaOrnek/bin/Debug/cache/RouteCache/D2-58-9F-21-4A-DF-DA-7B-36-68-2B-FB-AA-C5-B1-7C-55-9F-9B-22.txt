@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJXZArPimxyhQRY2Lda_extdc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJXZArPimxyhQRY2Lda_extdc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.08099989999999,
+               "lng" : 28.94551
+            },
+            "southwest" : {
+               "lat" : 41.08098,
+               "lng" : 28.9454926
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3 m",
+                  "value" : 3
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 1
+               },
+               "end_address" : "Alibeyköy, Kekik Sk. No:42, 34060 Eyüpsultan/İstanbul, Turkey",
+               "end_location" : {
+                  "lat" : 41.08098,
+                  "lng" : 28.9454926
+               },
+               "start_address" : "Alibeyköy, Kekik Sk. No:42, 34060 Eyüpsultan/İstanbul, Turkey",
+               "start_location" : {
+                  "lat" : 41.08099989999999,
+                  "lng" : 28.94551
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "3 m",
+                        "value" : 3
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 41.08098,
+                        "lng" : 28.9454926
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eKekik Sk.\u003c/b\u003e toward \u003cb\u003eGüzelce Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gsvyFmltoDBB"
+                     },
+                     "start_location" : {
+                        "lat" : 41.08099989999999,
+                        "lng" : 28.94551
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gsvyFmltoDBB"
+         },
+         "summary" : "Kekik Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJHZFqG1BftRQRt76qwTTjltw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJHZFqG1BftRQRt76qwTTjltw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.0342625,
+               "lng" : 28.66128209999999
+            },
+            "southwest" : {
+               "lat" : 41.0342625,
+               "lng" : 28.66128209999999
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Pınar, Ahmet Arif Cd. 110 A, 34517 Beylikdüzü Organize Sanayi Bölgesi/Esenyurt/İstanbul, Turkey",
+               "end_location" : {
+                  "lat" : 41.0342625,
+                  "lng" : 28.66128209999999
+               },
+               "start_address" : "Pınar, Ahmet Arif Cd. 110 A, 34517 Beylikdüzü Organize Sanayi Bölgesi/Esenyurt/İstanbul, Turkey",
+               "start_location" : {
+                  "lat" : 41.0342625,
+                  "lng" : 28.66128209999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.0342625,
+                        "lng" : 28.66128209999999
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "comyF_||mD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.0342625,
+                        "lng" : 28.66128209999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "comyF_||mD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

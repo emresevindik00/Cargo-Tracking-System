@@ -1,0 +1,49 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Çorum",
+               "short_name" : "Çorum",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Çorum, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.353124,
+                  "lng" : 35.5335209
+               },
+               "southwest" : {
+                  "lat" : 39.925757,
+                  "lng" : 33.957731
+               }
+            },
+            "location" : {
+               "lat" : 40.4998211,
+               "lng" : 34.5986263
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.353124,
+                  "lng" : 35.5335209
+               },
+               "southwest" : {
+                  "lat" : 39.925757,
+                  "lng" : 33.957731
+               }
+            }
+         },
+         "place_id" : "ChIJt6TjDx8ygUAR8ocO2zlxu-o",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

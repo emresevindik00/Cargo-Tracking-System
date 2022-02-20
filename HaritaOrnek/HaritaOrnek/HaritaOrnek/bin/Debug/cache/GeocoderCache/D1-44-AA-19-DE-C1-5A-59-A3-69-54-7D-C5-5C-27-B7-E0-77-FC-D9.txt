@@ -1,0 +1,54 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bayrampaşa",
+               "short_name" : "Bayrampaşa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bayrampaşa/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.077101,
+                  "lng" : 28.92398
+               },
+               "southwest" : {
+                  "lat" : 41.024338,
+                  "lng" : 28.878448
+               }
+            },
+            "location" : {
+               "lat" : 41.0481503,
+               "lng" : 28.90045529999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.077101,
+                  "lng" : 28.92398
+               },
+               "southwest" : {
+                  "lat" : 41.024338,
+                  "lng" : 28.878448
+               }
+            }
+         },
+         "place_id" : "ChIJ-Whc7YG6yhQRDH799UnHvvs",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

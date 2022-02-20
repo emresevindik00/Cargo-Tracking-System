@@ -1,0 +1,54 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Üsküdar",
+               "short_name" : "Üsküdar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Üsküdar/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.077997,
+                  "lng" : 29.091789
+               },
+               "southwest" : {
+                  "lat" : 40.9925,
+                  "lng" : 29.00367
+               }
+            },
+            "location" : {
+               "lat" : 41.0189417,
+               "lng" : 29.0576298
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.077997,
+                  "lng" : 29.091789
+               },
+               "southwest" : {
+                  "lat" : 40.9925,
+                  "lng" : 29.00367
+               }
+            }
+         },
+         "place_id" : "ChIJ8ckk1SbIyhQROH97MxJ2T8E",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Istanbul Airport",
+               "short_name" : "Istanbul Airport",
+               "types" : [ "airport", "establishment", "point_of_interest" ]
+            },
+            {
+               "long_name" : "No:1",
+               "short_name" : "No:1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Terminal Cad",
+               "short_name" : "Terminal Cad",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tayakadın",
+               "short_name" : "Tayakadın",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Arnavutköy",
+               "short_name" : "Arnavutköy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34283",
+               "short_name" : "34283",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tayakadın, Istanbul Airport (IST), Terminal Cad No:1, 34283 Arnavutköy/İstanbul, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.2766323,
+               "lng" : 28.7302155
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.2779812802915,
+                  "lng" : 28.7315644802915
+               },
+               "southwest" : {
+                  "lat" : 41.2752833197085,
+                  "lng" : 28.7288665197085
+               }
+            }
+         },
+         "place_id" : "ChIJqZW8Cvb_n0ARBuUkyCzgDDg",
+         "plus_code" : {
+            "compound_code" : "7PGJ+M3 Arnavutköy/İstanbul, Turkey",
+            "global_code" : "8GHC7PGJ+M3"
+         },
+         "types" : [ "airport", "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

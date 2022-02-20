@@ -1,0 +1,54 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarıyer",
+               "short_name" : "Sarıyer",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sarıyer/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.262502,
+                  "lng" : 29.11626
+               },
+               "southwest" : {
+                  "lat" : 41.0811211,
+                  "lng" : 28.932335
+               }
+            },
+            "location" : {
+               "lat" : 41.1814742,
+               "lng" : 29.0385466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.262502,
+                  "lng" : 29.11626
+               },
+               "southwest" : {
+                  "lat" : 41.0811211,
+                  "lng" : 28.932335
+               }
+            }
+         },
+         "place_id" : "ChIJ11KoMiLgn0ARxE4ae9DKhjo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

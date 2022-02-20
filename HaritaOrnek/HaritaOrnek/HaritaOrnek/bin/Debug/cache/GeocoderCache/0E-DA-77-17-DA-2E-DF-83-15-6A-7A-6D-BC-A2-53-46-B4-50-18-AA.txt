@@ -1,0 +1,54 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bakırköy",
+               "short_name" : "Bakırköy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bakırköy/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.00714199999999,
+                  "lng" : 28.896622
+               },
+               "southwest" : {
+                  "lat" : 40.954508,
+                  "lng" : 28.773148
+               }
+            },
+            "location" : {
+               "lat" : 40.9831984,
+               "lng" : 28.8536084
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.00714199999999,
+                  "lng" : 28.896622
+               },
+               "southwest" : {
+                  "lat" : 40.954508,
+                  "lng" : 28.773148
+               }
+            }
+         },
+         "place_id" : "ChIJAyZwaGqjyhQRzvTSATBKqKU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

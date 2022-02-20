@@ -1,0 +1,60 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Euagora Laniti",
+               "short_name" : "Euagora Laniti",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Limassol",
+               "short_name" : "Limassol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Limassol",
+               "short_name" : "Limassol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cyprus",
+               "short_name" : "CY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Euagora Laniti, Limassol, Cyprus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.7095937,
+                  "lng" : 33.0254323
+               },
+               "southwest" : {
+                  "lat" : 34.7006994,
+                  "lng" : 33.0057261
+               }
+            },
+            "location" : {
+               "lat" : 34.7053403,
+               "lng" : 33.0151367
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.7095937,
+                  "lng" : 33.0254323
+               },
+               "southwest" : {
+                  "lat" : 34.7006994,
+                  "lng" : 33.0057261
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJS3tX7Ooz5xQRLMtkIWC0TJI",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

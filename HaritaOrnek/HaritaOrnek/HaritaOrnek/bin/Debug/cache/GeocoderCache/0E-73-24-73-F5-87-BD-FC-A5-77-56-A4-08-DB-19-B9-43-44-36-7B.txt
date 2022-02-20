@@ -1,0 +1,54 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pendik",
+               "short_name" : "Pendik",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pendik/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.036047,
+                  "lng" : 29.50651
+               },
+               "southwest" : {
+                  "lat" : 40.853817,
+                  "lng" : 29.215418
+               }
+            },
+            "location" : {
+               "lat" : 40.88094470000001,
+               "lng" : 29.257742
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.036047,
+                  "lng" : 29.50651
+               },
+               "southwest" : {
+                  "lat" : 40.853817,
+                  "lng" : 29.215418
+               }
+            }
+         },
+         "place_id" : "ChIJ4wVn0g_XyhQR6oyxp4HC1Ms",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

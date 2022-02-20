@@ -1,0 +1,54 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kadıköy",
+               "short_name" : "Kadıköy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kadıköy/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.012268,
+                  "lng" : 29.111257
+               },
+               "southwest" : {
+                  "lat" : 40.949998,
+                  "lng" : 29.01484899999999
+               }
+            },
+            "location" : {
+               "lat" : 40.98186700000001,
+               "lng" : 29.0576302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.012268,
+                  "lng" : 29.111257
+               },
+               "southwest" : {
+                  "lat" : 40.949998,
+                  "lng" : 29.01484899999999
+               }
+            }
+         },
+         "place_id" : "ChIJnah7sZDHyhQR4n56Q6BO0tI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

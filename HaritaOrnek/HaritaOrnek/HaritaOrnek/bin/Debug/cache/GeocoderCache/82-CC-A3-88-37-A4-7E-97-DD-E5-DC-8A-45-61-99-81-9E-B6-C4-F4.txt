@@ -1,0 +1,54 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Büyükçekmece",
+               "short_name" : "Büyükçekmece",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Büyükçekmece/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.129654,
+                  "lng" : 28.634821
+               },
+               "southwest" : {
+                  "lat" : 40.9845759,
+                  "lng" : 28.390983
+               }
+            },
+            "location" : {
+               "lat" : 41.0534024,
+               "lng" : 28.5564526
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.129654,
+                  "lng" : 28.634821
+               },
+               "southwest" : {
+                  "lat" : 40.9845759,
+                  "lng" : 28.390983
+               }
+            }
+         },
+         "place_id" : "ChIJtxrw9OhctRQRnnSWDpfeGfk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

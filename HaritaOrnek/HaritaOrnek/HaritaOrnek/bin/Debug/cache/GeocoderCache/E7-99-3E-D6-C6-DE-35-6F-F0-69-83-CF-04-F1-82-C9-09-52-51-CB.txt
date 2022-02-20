@@ -1,0 +1,59 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Devran Caddesi",
+               "short_name" : "Devran Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Devran Cd., İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7814865,
+                  "lng" : 29.9335779
+               },
+               "southwest" : {
+                  "lat" : 40.7689207,
+                  "lng" : 29.9205653
+               }
+            },
+            "location" : {
+               "lat" : 40.7749411,
+               "lng" : 29.9272496
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7814865,
+                  "lng" : 29.9335779
+               },
+               "southwest" : {
+                  "lat" : 40.7689207,
+                  "lng" : 29.9205653
+               }
+            }
+         },
+         "place_id" : "ChIJ9TqaGXhPyxQRMTvPzqkpvKw",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ağrı",
+               "short_name" : "Ağrı",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ağrı, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.019462,
+                  "lng" : 44.48779709999999
+               },
+               "southwest" : {
+                  "lat" : 38.932678,
+                  "lng" : 42.264126
+               }
+            },
+            "location" : {
+               "lat" : 39.6269218,
+               "lng" : 43.0215965
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.019462,
+                  "lng" : 44.48779709999999
+               },
+               "southwest" : {
+                  "lat" : 38.932678,
+                  "lng" : 42.264126
+               }
+            }
+         },
+         "place_id" : "ChIJwYv6t9ODbEARFq48x8dFeVU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

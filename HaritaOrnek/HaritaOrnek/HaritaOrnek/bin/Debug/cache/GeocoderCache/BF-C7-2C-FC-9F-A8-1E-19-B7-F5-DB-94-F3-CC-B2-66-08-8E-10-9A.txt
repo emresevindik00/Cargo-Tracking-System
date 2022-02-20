@@ -1,0 +1,74 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Çırçır Mahallesi",
+               "short_name" : "Çırçır Mahallesi",
+               "types" : [
+                  "establishment",
+                  "point_of_interest",
+                  "subway_station",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Çırçır",
+               "short_name" : "Çırçır",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Eyüpsultan",
+               "short_name" : "Eyüpsultan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34070",
+               "short_name" : "34070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Çırçır, Çırçır Mahallesi, 34070 Eyüpsultan/İstanbul, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.07999,
+               "lng" : 28.93527
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.08133898029149,
+                  "lng" : 28.9366189802915
+               },
+               "southwest" : {
+                  "lat" : 41.07864101970849,
+                  "lng" : 28.9339210197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJEXxlU9-wyhQRD4tmGJ_HL8c",
+         "plus_code" : {
+            "compound_code" : "3WHP+X4 Eyüpsultan/İstanbul, Turkey",
+            "global_code" : "8GHC3WHP+X4"
+         },
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "subway_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

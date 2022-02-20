@@ -1,0 +1,69 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ata Sokak",
+               "short_name" : "Ata Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tavşantepe",
+               "short_name" : "Tavşantepe",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41060",
+               "short_name" : "41060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tavşantepe, Ata Sk., 41060 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7834688,
+                  "lng" : 29.9664853
+               },
+               "southwest" : {
+                  "lat" : 40.7804428,
+                  "lng" : 29.9620421
+               }
+            },
+            "location" : {
+               "lat" : 40.7819943,
+               "lng" : 29.9642918
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7834688,
+                  "lng" : 29.9664853
+               },
+               "southwest" : {
+                  "lat" : 40.7804428,
+                  "lng" : 29.9620421
+               }
+            }
+         },
+         "place_id" : "Eh9BdGEgU2suLCDEsHptaXQvS29jYWVsaSwgVHVya2V5Ii4qLAoUChIJTX3Gk9pPyxQRdTgY1-ZQCLMSFAoSCZ37S2RmT8sUEbl-a1jnDmmC",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

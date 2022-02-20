@@ -1,0 +1,59 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turan Güneş Caddesi",
+               "short_name" : "Turan Güneş Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turan Güneş Cd., İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.80145,
+                  "lng" : 29.9883867
+               },
+               "southwest" : {
+                  "lat" : 40.7669263,
+                  "lng" : 29.9349545
+               }
+            },
+            "location" : {
+               "lat" : 40.7824092,
+               "lng" : 29.9686808
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.80145,
+                  "lng" : 29.9883867
+               },
+               "southwest" : {
+                  "lat" : 40.7669263,
+                  "lng" : 29.9349545
+               }
+            }
+         },
+         "place_id" : "EilUdXJhbiBHw7xuZcWfIENkLiwgxLB6bWl0L0tvY2FlbGksIFR1cmtleSIuKiwKFAoSCcMT5AbET8sUEUchl4-i_1_EEhQKEgmd-0tkZk_LFBG5fmtY5w5pgg",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

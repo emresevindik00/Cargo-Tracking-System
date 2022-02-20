@@ -1,0 +1,74 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5018",
+               "short_name" : "5018",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Hixson Pike",
+               "short_name" : "Hixson Pike",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hixson",
+               "short_name" : "Hixson",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chattanooga",
+               "short_name" : "Chattanooga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton County",
+               "short_name" : "Hamilton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "37343",
+               "short_name" : "37343",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "3925",
+               "short_name" : "3925",
+               "types" : [ "postal_code_suffix" ]
+            }
+         ],
+         "formatted_address" : "5018 Hixson Pike, Hixson, TN 37343, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.1347583,
+               "lng" : -85.24003329999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.1361072802915,
+                  "lng" : -85.2386843197085
+               },
+               "southwest" : {
+                  "lat" : 35.1334093197085,
+                  "lng" : -85.2413822802915
+               }
+            }
+         },
+         "place_id" : "ChIJKe31GJCKYIgRKEZAejNgMm0",
+         "types" : [ "establishment", "food", "point_of_interest", "restaurant", "store" ]
+      }
+   ],
+   "status" : "OK"
+}

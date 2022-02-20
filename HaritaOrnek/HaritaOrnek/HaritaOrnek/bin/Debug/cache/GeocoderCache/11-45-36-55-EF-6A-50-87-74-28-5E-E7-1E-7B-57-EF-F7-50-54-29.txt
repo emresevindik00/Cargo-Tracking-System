@@ -1,0 +1,49 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Karabük",
+               "short_name" : "Karabük",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Karabük, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.590775,
+                  "lng" : 33.1603829
+               },
+               "southwest" : {
+                  "lat" : 40.797677,
+                  "lng" : 32.088016
+               }
+            },
+            "location" : {
+               "lat" : 41.187489,
+               "lng" : 32.7417419
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.590775,
+                  "lng" : 33.1603829
+               },
+               "southwest" : {
+                  "lat" : 40.797677,
+                  "lng" : 32.088016
+               }
+            }
+         },
+         "place_id" : "ChIJNSlfa3irnEARuG2RWxfPShM",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Omodos",
+               "short_name" : "Omodos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Limassol",
+               "short_name" : "Limassol",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Cyprus",
+               "short_name" : "CY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Omodos, Cyprus",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.85306509999999,
+                  "lng" : 32.814076
+               },
+               "southwest" : {
+                  "lat" : 34.8439806,
+                  "lng" : 32.8036316
+               }
+            },
+            "location" : {
+               "lat" : 34.8492616,
+               "lng" : 32.8098601
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.85306509999999,
+                  "lng" : 32.814076
+               },
+               "southwest" : {
+                  "lat" : 34.8439806,
+                  "lng" : 32.8036316
+               }
+            }
+         },
+         "place_id" : "ChIJB0OIhbY45xQRE293wO2Hwf4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

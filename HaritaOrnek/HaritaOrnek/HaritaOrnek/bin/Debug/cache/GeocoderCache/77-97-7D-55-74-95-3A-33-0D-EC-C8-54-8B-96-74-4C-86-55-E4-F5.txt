@@ -1,0 +1,69 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ebu Suud Efendi Caddesi",
+               "short_name" : "Ebu Suud Efendi Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Havzan",
+               "short_name" : "Havzan",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Meram",
+               "short_name" : "Meram",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Konya",
+               "short_name" : "Konya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "42090",
+               "short_name" : "42090",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Havzan, Ebu Suud Efendi Cd., 42090 Meram/Konya, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.8639634,
+                  "lng" : 32.4736141
+               },
+               "southwest" : {
+                  "lat" : 37.860156,
+                  "lng" : 32.463708
+               }
+            },
+            "location" : {
+               "lat" : 37.8632095,
+               "lng" : 32.4686485
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.8639634,
+                  "lng" : 32.4736141
+               },
+               "southwest" : {
+                  "lat" : 37.860156,
+                  "lng" : 32.463708
+               }
+            }
+         },
+         "place_id" : "ChIJrUC08DeE0BQR_aMYwM_TZRk",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

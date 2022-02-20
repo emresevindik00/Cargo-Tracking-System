@@ -1,0 +1,69 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Şehnaz Caddesi",
+               "short_name" : "Şehnaz Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pazariçi",
+               "short_name" : "Pazariçi",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Gaziosmanpaşa",
+               "short_name" : "Gaziosmanpaşa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34240",
+               "short_name" : "34240",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pazariçi, Şehnaz Cd., 34240 Gaziosmanpaşa/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0615652,
+                  "lng" : 28.9353968
+               },
+               "southwest" : {
+                  "lat" : 41.0586984,
+                  "lng" : 28.9310295
+               }
+            },
+            "location" : {
+               "lat" : 41.0603915,
+               "lng" : 28.933424
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0615652,
+                  "lng" : 28.9353968
+               },
+               "southwest" : {
+                  "lat" : 41.0586984,
+                  "lng" : 28.9310295
+               }
+            }
+         },
+         "place_id" : "ChIJZ-hRG7-wyhQRrIt-uOWN56Q",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

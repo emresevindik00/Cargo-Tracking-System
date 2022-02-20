@@ -1,0 +1,55 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buca",
+               "short_name" : "Buca",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İzmir",
+               "short_name" : "İzmir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buca/İzmir, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.4090599,
+                  "lng" : 27.3679861
+               },
+               "southwest" : {
+                  "lat" : 38.2703479,
+                  "lng" : 27.135691
+               }
+            },
+            "location" : {
+               "lat" : 38.3337361,
+               "lng" : 27.2911248
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.4090599,
+                  "lng" : 27.3679861
+               },
+               "southwest" : {
+                  "lat" : 38.2703479,
+                  "lng" : 27.135691
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJx1h1hlZhuRQRJR_-chnPwNI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

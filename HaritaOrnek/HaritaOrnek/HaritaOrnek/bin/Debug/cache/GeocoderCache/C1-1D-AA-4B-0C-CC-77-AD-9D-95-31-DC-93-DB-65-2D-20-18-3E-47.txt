@@ -1,0 +1,64 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Çırçır",
+               "short_name" : "Çırçır",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Eyüpsultan",
+               "short_name" : "Eyüpsultan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34070",
+               "short_name" : "34070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Çırçır, 34070 Eyüpsultan/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.088972,
+                  "lng" : 28.944414
+               },
+               "southwest" : {
+                  "lat" : 41.076164,
+                  "lng" : 28.9284571
+               }
+            },
+            "location" : {
+               "lat" : 41.0810389,
+               "lng" : 28.9368525
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.088972,
+                  "lng" : 28.944414
+               },
+               "southwest" : {
+                  "lat" : 41.076164,
+                  "lng" : 28.9284571
+               }
+            }
+         },
+         "place_id" : "ChIJT8Ja2SaxyhQRhIQpJC85OZI",
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

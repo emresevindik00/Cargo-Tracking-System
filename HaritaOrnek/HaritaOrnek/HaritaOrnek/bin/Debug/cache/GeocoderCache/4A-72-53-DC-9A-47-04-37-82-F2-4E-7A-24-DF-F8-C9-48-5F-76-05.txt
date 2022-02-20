@@ -1,0 +1,69 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arızlı",
+               "short_name" : "Arızlı",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arızlı",
+               "short_name" : "Arızlı",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41001",
+               "short_name" : "41001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Arızlı, 41001 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8051509,
+                  "lng" : 29.90986809999999
+               },
+               "southwest" : {
+                  "lat" : 40.796386,
+                  "lng" : 29.9054901
+               }
+            },
+            "location" : {
+               "lat" : 40.801915,
+               "lng" : 29.908924
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8051509,
+                  "lng" : 29.90986809999999
+               },
+               "southwest" : {
+                  "lat" : 40.796386,
+                  "lng" : 29.9054901
+               }
+            }
+         },
+         "place_id" : "ChIJmU7UUBlPyxQREALdvNF-h50",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

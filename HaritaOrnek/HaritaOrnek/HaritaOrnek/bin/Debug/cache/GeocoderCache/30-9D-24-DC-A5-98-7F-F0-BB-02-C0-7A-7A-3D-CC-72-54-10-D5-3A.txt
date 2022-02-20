@@ -1,0 +1,54 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fatih",
+               "short_name" : "Fatih",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fatih/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.040882,
+                  "lng" : 28.9880719
+               },
+               "southwest" : {
+                  "lat" : 40.987637,
+                  "lng" : 28.919171
+               }
+            },
+            "location" : {
+               "lat" : 41.0168639,
+               "lng" : 28.9470422
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.040882,
+                  "lng" : 28.9880719
+               },
+               "southwest" : {
+                  "lat" : 40.987637,
+                  "lng" : 28.919171
+               }
+            }
+         },
+         "place_id" : "ChIJmeP65Ym5yhQR4CKL7X6E8DQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

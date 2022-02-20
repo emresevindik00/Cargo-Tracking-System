@@ -1,0 +1,59 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gülbahar",
+               "short_name" : "Gülbahar",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Şişli",
+               "short_name" : "Şişli",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gülbahar, Şişli/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.076612,
+                  "lng" : 29.0049551
+               },
+               "southwest" : {
+                  "lat" : 41.066515,
+                  "lng" : 28.993743
+               }
+            },
+            "location" : {
+               "lat" : 41.0723598,
+               "lng" : 29.0001632
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.076612,
+                  "lng" : 29.0049551
+               },
+               "southwest" : {
+                  "lat" : 41.066515,
+                  "lng" : 28.993743
+               }
+            }
+         },
+         "place_id" : "ChIJiZmfB_i2yhQRkqBbywysyyc",
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

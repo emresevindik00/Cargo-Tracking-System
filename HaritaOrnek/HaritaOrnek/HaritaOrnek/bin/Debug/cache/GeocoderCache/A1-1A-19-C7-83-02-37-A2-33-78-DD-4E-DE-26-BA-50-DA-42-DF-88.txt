@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "42",
+               "short_name" : "42",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Kekik Sokak",
+               "short_name" : "Kekik Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alibeyköy",
+               "short_name" : "Alibeyköy",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Eyüpsultan",
+               "short_name" : "Eyüpsultan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34060",
+               "short_name" : "34060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alibeyköy, Kekik Sk. No:42, 34060 Eyüpsultan/İstanbul, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.081031,
+               "lng" : 28.94539
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.08237998029149,
+                  "lng" : 28.9467389802915
+               },
+               "southwest" : {
+                  "lat" : 41.07968201970849,
+                  "lng" : 28.9440410197085
+               }
+            }
+         },
+         "place_id" : "ChIJXZArPimxyhQRY2Lda_extdc",
+         "plus_code" : {
+            "compound_code" : "3WJW+C5 Eyüpsultan/İstanbul, Turkey",
+            "global_code" : "8GHC3WJW+C5"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

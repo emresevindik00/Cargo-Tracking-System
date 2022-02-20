@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Yunus Emre Caddesi",
+               "short_name" : "Yunus Emre Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Deliklitaş",
+               "short_name" : "Deliklitaş",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Odunpazarı",
+               "short_name" : "Odunpazarı",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Eskişehir",
+               "short_name" : "Eskişehir",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "26090",
+               "short_name" : "26090",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Deliklitaş, Yunus Emre Cd. No:2, 26090 Odunpazarı/Eskişehir, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.7671178,
+               "lng" : 30.525908
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7684667802915,
+                  "lng" : 30.5272569802915
+               },
+               "southwest" : {
+                  "lat" : 39.76576881970851,
+                  "lng" : 30.5245590197085
+               }
+            }
+         },
+         "place_id" : "ChIJZaA47gIWzBQRH9u2vagHsbA",
+         "plus_code" : {
+            "compound_code" : "QG8G+R9 Odunpazarı/Eskişehir, Turkey",
+            "global_code" : "8GFGQG8G+R9"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

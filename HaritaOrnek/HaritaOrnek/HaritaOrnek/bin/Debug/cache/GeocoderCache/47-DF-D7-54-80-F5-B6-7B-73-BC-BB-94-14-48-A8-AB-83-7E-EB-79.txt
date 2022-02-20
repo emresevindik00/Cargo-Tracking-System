@@ -1,0 +1,54 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Celal Bayar Bulvarı",
+               "short_name" : "Celal Bayar Blv.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Celal Bayar Blv., Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9451484,
+                  "lng" : 32.8676732
+               },
+               "southwest" : {
+                  "lat" : 39.9261519,
+                  "lng" : 32.8239639
+               }
+            },
+            "location" : {
+               "lat" : 39.9337405,
+               "lng" : 32.843615
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9451484,
+                  "lng" : 32.8676732
+               },
+               "southwest" : {
+                  "lat" : 39.9261519,
+                  "lng" : 32.8239639
+               }
+            }
+         },
+         "place_id" : "ChIJo2ZrHPFO0xQRjPztRN32C5g",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

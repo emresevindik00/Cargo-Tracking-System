@@ -1,0 +1,63 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Güvenpark",
+               "short_name" : "Güvenpark",
+               "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+            },
+            {
+               "long_name" : "Devlet",
+               "short_name" : "Devlet",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Çankaya",
+               "short_name" : "Çankaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "06650",
+               "short_name" : "06650",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Devlet, Güvenpark, Devlet, 06650 Çankaya/Ankara, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.91928619999999,
+               "lng" : 32.8533196
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.92063518029149,
+                  "lng" : 32.8546685802915
+               },
+               "southwest" : {
+                  "lat" : 39.9179372197085,
+                  "lng" : 32.8519706197085
+               }
+            }
+         },
+         "place_id" : "ChIJjTWQhQBP0xQRej8E-sHEDzU",
+         "plus_code" : {
+            "compound_code" : "WV93+P8 Çankaya/Ankara, Turkey",
+            "global_code" : "8GFJWV93+P8"
+         },
+         "types" : [ "establishment", "park", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

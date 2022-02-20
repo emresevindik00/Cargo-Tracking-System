@@ -1,0 +1,54 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Athens Regional Unit",
+               "short_name" : "Central Athens Regional Unit",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greece",
+               "short_name" : "GR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Athens, Greece",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0328563,
+                  "lng" : 23.7896925
+               },
+               "southwest" : {
+                  "lat" : 37.9488181,
+                  "lng" : 23.6869862
+               }
+            },
+            "location" : {
+               "lat" : 37.9838096,
+               "lng" : 23.7275388
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0328563,
+                  "lng" : 23.7896925
+               },
+               "southwest" : {
+                  "lat" : 37.9488181,
+                  "lng" : 23.6869862
+               }
+            }
+         },
+         "place_id" : "ChIJ8UNwBh-9oRQR3Y1mdkU1Nic",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

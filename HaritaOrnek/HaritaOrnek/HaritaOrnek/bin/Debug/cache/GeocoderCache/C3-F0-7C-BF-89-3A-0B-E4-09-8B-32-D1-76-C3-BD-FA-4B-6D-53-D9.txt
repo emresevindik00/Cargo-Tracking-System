@@ -1,0 +1,74 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "12 C",
+               "short_name" : "12 C",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ordu Caddesi",
+               "short_name" : "Ordu Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Reşatbey",
+               "short_name" : "Reşatbey",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Seyhan",
+               "short_name" : "Seyhan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Adana",
+               "short_name" : "Adana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01120",
+               "short_name" : "01120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Reşatbey, Ordu Cd. 12 C, 01120 Seyhan/Adana, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.9912106,
+                  "lng" : 35.3298593
+               },
+               "southwest" : {
+                  "lat" : 36.9906516,
+                  "lng" : 35.3295996
+               }
+            },
+            "location" : {
+               "lat" : 36.9909167,
+               "lng" : 35.3297144
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.99228008029149,
+                  "lng" : 35.33107843029151
+               },
+               "southwest" : {
+                  "lat" : 36.9895821197085,
+                  "lng" : 35.32838046970851
+               }
+            }
+         },
+         "place_id" : "ChIJ9Ys_rmiPKBURTgWxJ09Xuk8",
+         "types" : [ "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

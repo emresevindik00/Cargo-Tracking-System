@@ -1,0 +1,54 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eyüpsultan",
+               "short_name" : "Eyüpsultan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eyüpsultan/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.308697,
+                  "lng" : 28.9762831
+               },
+               "southwest" : {
+                  "lat" : 41.0243391,
+                  "lng" : 28.770507
+               }
+            },
+            "location" : {
+               "lat" : 41.1871598,
+               "lng" : 28.8829816
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.308697,
+                  "lng" : 28.9762831
+               },
+               "southwest" : {
+                  "lat" : 41.0243391,
+                  "lng" : 28.770507
+               }
+            }
+         },
+         "place_id" : "ChIJZRLW7GSyyhQRB0Z9KwRKCJs",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

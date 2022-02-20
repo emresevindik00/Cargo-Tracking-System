@@ -1,0 +1,54 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avcılar",
+               "short_name" : "Avcılar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Avcılar/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.080543,
+                  "lng" : 28.7566921
+               },
+               "southwest" : {
+                  "lat" : 40.9689871,
+                  "lng" : 28.683702
+               }
+            },
+            "location" : {
+               "lat" : 41.01534789999999,
+               "lng" : 28.7314618
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.080543,
+                  "lng" : 28.7566921
+               },
+               "southwest" : {
+                  "lat" : 40.9689871,
+                  "lng" : 28.683702
+               }
+            }
+         },
+         "place_id" : "ChIJr6W3-yenyhQR2qRv2p794TY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

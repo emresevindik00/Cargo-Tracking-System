@@ -1,0 +1,54 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Islambey Caddesi",
+               "short_name" : "Islambey Cad.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Islambey Cad., İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0584669,
+                  "lng" : 28.9296647
+               },
+               "southwest" : {
+                  "lat" : 41.0494517,
+                  "lng" : 28.9135593
+               }
+            },
+            "location" : {
+               "lat" : 41.0535007,
+               "lng" : 28.9216654
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0584669,
+                  "lng" : 28.9296647
+               },
+               "southwest" : {
+                  "lat" : 41.0494517,
+                  "lng" : 28.9135593
+               }
+            }
+         },
+         "place_id" : "ChIJgTjKspuwyhQRXbuQ4G_dE7w",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beka Belediye Blokları",
+               "short_name" : "Beka Belediye Blokları",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Çırçır",
+               "short_name" : "Çırçır",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Eyüpsultan",
+               "short_name" : "Eyüpsultan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34070",
+               "short_name" : "34070",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Çırçır, Beka Belediye Blokları, 34070 Eyüpsultan/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0822252,
+                  "lng" : 28.9350328
+               },
+               "southwest" : {
+                  "lat" : 41.08038920000001,
+                  "lng" : 28.93303119999999
+               }
+            },
+            "location" : {
+               "lat" : 41.08134200000001,
+               "lng" : 28.9340805
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0826561802915,
+                  "lng" : 28.93538098029149
+               },
+               "southwest" : {
+                  "lat" : 41.0799582197085,
+                  "lng" : 28.9326830197085
+               }
+            }
+         },
+         "place_id" : "ChIJ5yfrlyCxyhQR-A4oABv2B3k",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

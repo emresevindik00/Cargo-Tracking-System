@@ -1,0 +1,49 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tokat",
+               "short_name" : "Tokat",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tokat, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.910258,
+                  "lng" : 37.622373
+               },
+               "southwest" : {
+                  "lat" : 39.864541,
+                  "lng" : 35.4394299
+               }
+            },
+            "location" : {
+               "lat" : 40.39027129999999,
+               "lng" : 36.6251863
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.910258,
+                  "lng" : 37.622373
+               },
+               "southwest" : {
+                  "lat" : 39.864541,
+                  "lng" : 35.4394299
+               }
+            }
+         },
+         "place_id" : "ChIJNSbWuRpxfUARt3LfBCDRUS8",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

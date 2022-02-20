@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "52",
+               "short_name" : "52",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Gazanfer Bilge Sokak",
+               "short_name" : "Gazanfer Bilge Sk.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cedit",
+               "short_name" : "Cedit",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41300",
+               "short_name" : "41300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cedit, Gazanfer Bilge Sk. No:52, 41300 İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7670385,
+               "lng" : 29.9402691
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.76838748029149,
+                  "lng" : 29.9416180802915
+               },
+               "southwest" : {
+                  "lat" : 40.76568951970849,
+                  "lng" : 29.9389201197085
+               }
+            }
+         },
+         "place_id" : "ChIJ7cF9Wo9PyxQR69SirU3AWXw",
+         "plus_code" : {
+            "compound_code" : "QW8R+R4 İzmit/Kocaeli, Turkey",
+            "global_code" : "8GGFQW8R+R4"
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

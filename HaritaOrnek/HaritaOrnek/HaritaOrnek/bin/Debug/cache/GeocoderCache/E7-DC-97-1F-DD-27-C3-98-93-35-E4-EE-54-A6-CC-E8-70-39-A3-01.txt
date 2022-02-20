@@ -1,0 +1,59 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mysuru",
+               "short_name" : "Mysuru",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mysuru",
+               "short_name" : "Mysuru",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Karnataka",
+               "short_name" : "KA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mysuru, Karnataka, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 12.3744611,
+                  "lng" : 76.7110062
+               },
+               "southwest" : {
+                  "lat" : 12.2468304,
+                  "lng" : 76.5603734
+               }
+            },
+            "location" : {
+               "lat" : 12.2958104,
+               "lng" : 76.6393805
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 12.3744611,
+                  "lng" : 76.7110062
+               },
+               "southwest" : {
+                  "lat" : 12.2468304,
+                  "lng" : 76.5603734
+               }
+            }
+         },
+         "place_id" : "ChIJ-S5XHThwrzsRbTn4wOjsiSs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

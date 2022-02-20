@@ -1,0 +1,595 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJV4WIk5Mz5xQRVB2e_LcGONs",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJV4WIk5Mz5xQRVB2e_LcGONs",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJG0jWl7I45xQRCDx07bJljoc",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJG0jWl7I45xQRCDx07bJljoc",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 34.8495989,
+               "lng" : 33.0274384
+            },
+            "southwest" : {
+               "lat" : 34.6815699,
+               "lng" : 32.7890963
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Euagora Laniti, Limassol, Cyprus",
+               "end_location" : {
+                  "lat" : 34.7059851,
+                  "lng" : 33.01514179999999
+               },
+               "start_address" : "Euagora Laniti, Limassol, Cyprus",
+               "start_location" : {
+                  "lat" : 34.7059851,
+                  "lng" : 33.01514179999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 34.7059851,
+                        "lng" : 33.01514179999999
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eΑξιού\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "moyrEsgohE"
+                     },
+                     "start_location" : {
+                        "lat" : 34.7059851,
+                        "lng" : 33.01514179999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "25.4 mi",
+                  "value" : 40902
+               },
+               "duration" : {
+                  "text" : "40 mins",
+                  "value" : 2405
+               },
+               "end_address" : "RRX5+VW3, Omodos, Cyprus",
+               "end_location" : {
+                  "lat" : 34.8492717,
+                  "lng" : 32.8098653
+               },
+               "start_address" : "Euagora Laniti, Limassol, Cyprus",
+               "start_location" : {
+                  "lat" : 34.7059851,
+                  "lng" : 33.01514179999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 624
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : 34.7076322,
+                        "lng" : 33.0213779
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eΑξιού\u003c/b\u003e toward \u003cb\u003eParodos Efskiou Pefki\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "moyrEsgohEc@{@Ui@yAmDu@iC_AkC_@eAWg@Sm@GYEY@o@HuBDgBD_BBwB"
+                     },
+                     "start_location" : {
+                        "lat" : 34.7059851,
+                        "lng" : 33.01514179999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "404 ft",
+                        "value" : 123
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 34.7065342,
+                        "lng" : 33.0213189
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eΔομινίτσας Λανίτου Καβουνίδου\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uyyrEsnphEfAAbBNR?ZA"
+                     },
+                     "start_location" : {
+                        "lat" : 34.7076322,
+                        "lng" : 33.0213779
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 379
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 34.7085354,
+                        "lng" : 33.0244745
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eΕυαγόρα Λανίτη\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yryrEgnphE?SCOGOIMe@c@c@c@_@[}@{@]]U[i@s@Yk@SYMWKWO_@K[EMAGAGCYC{@"
+                     },
+                     "start_location" : {
+                        "lat" : 34.7065342,
+                        "lng" : 33.0213189
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 477
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 34.7049399,
+                        "lng" : 33.0271165
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eΑγίας Φυλάξεως\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eE110\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "k_zrE}aqhEHAd@ENC\\KXO~C}Aj@[|BqAPWb@URMRUP[DGLSXq@LMFGHIHEHEHGFCDEFEDCDGFEFK"
+                     },
+                     "start_location" : {
+                        "lat" : 34.7085354,
+                        "lng" : 33.0244745
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 590
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 34.7025916,
+                        "lng" : 33.0223811
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto the \u003cb\u003eA1\u003c/b\u003e ramp",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "{hyrEorqhE@E@I@EBGBEFIFEFEHCFAFAD?@?F@FBJDDBDDDFBDDH@J@H@N?JAHCJADCFAT?L?L@N@P?@DZ@NBPDTRhAZrA@FXhAZfAh@vAb@jAh@lAp@nAt@lA"
+                     },
+                     "start_location" : {
+                        "lat" : 34.7049399,
+                        "lng" : 33.0271165
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.8 mi",
+                        "value" : 4457
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 172
+                     },
+                     "end_location" : {
+                        "lat" : 34.6896775,
+                        "lng" : 32.981987
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e at the fork and merge onto \u003cb\u003eA1\u003c/b\u003e",
+                     "maneuver" : "fork-right",
+                     "polyline" : {
+                        "points" : "ezxrE{tphEb@v@`@l@n@z@\\h@XZjAjAdBbB`B~A`B~APPfCdCxCtCdKbK|JtJz@z@t@r@hR~QdAbAbAdAz@fAj@~@@B@Bp@rAVr@JVVz@Tz@P~@Lx@XtB~@|H`AnI~@hI^`EH`AZjENbDF`BBz@@zBFbE?|GEhDIjDM~CY|FQtBCVAJM~A[vCCXi@lEe@fDq@zDu@pDoAvF}BvI"
+                     },
+                     "start_location" : {
+                        "lat" : 34.7025916,
+                        "lng" : 33.0223811
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.5 mi",
+                        "value" : 7207
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 262
+                     },
+                     "end_location" : {
+                        "lat" : 34.6847857,
+                        "lng" : 32.9087359
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eA6\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "oivrEmxhhEyFzT}Lje@{@fD}BzIKd@oAzEgC|JWbACHELsAlFw@dDe@|B[pBOfAMv@YhCWrCALIfAGjAIdBE~B?LAxC@hCBzADjBFfBJdBLhBPhBPdBDV?@T`B`@~Bb@xB^bBb@fBb@~Al@nBbApCbAbCx@jBbAjBtAbCxA|B~BdDjAzAvBpCv@hAfAtBXp@Xr@Z~@BHTv@V`APz@Nv@Lv@Hp@Fr@L~ADhA@fA?|AAdBCzAAdA?ZMjLMzICtCKtMIpIAb@Av@ExH@z@@|@Bx@Dr@Fr@Df@HhAJn@Nx@Lv@\\xAf@lBdC~IJ\\nBjHt@rCl@zBbAdEr@pC\\zANj@fA|E|@vD`A~Ep@bDx@|DBNp@hDj@~C"
+                     },
+                     "start_location" : {
+                        "lat" : 34.6896775,
+                        "lng" : 32.981987
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 316
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 34.6829603,
+                        "lng" : 32.9067108
+                     },
+                     "html_instructions" : "Take the exit toward \u003cb\u003eΓρηγορη Αυξεντιου\u003c/b\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "}jurEsnzgE`BzG`@x@BDRZ@@VRVJ\\J\\Bh@Ex@M"
+                     },
+                     "start_location" : {
+                        "lat" : 34.6847857,
+                        "lng" : 32.9087359
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 173
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 34.6815699,
+                        "lng" : 32.9075664
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eΓρηγορη Αυξεντιου\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "o_urE}azgEnAs@xAw@jB_A"
+                     },
+                     "start_location" : {
+                        "lat" : 34.6829603,
+                        "lng" : 32.9067108
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 287
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 34.6826252,
+                        "lng" : 32.9104283
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDikaiosynis\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yvtrEigzgEYoA{C}K]mA"
+                     },
+                     "start_location" : {
+                        "lat" : 34.6815699,
+                        "lng" : 32.9075664
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "15.8 mi",
+                        "value" : 25451
+                     },
+                     "duration" : {
+                        "text" : "25 mins",
+                        "value" : 1498
+                     },
+                     "end_location" : {
+                        "lat" : 34.8447011,
+                        "lng" : 32.8067381
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eE601\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "m}trEeyzgEyHlCs@FaA@Y@Q@Q?E?S@mAD_AHcF^y@JQBw@V_Al@a@`@OPU\\KLq@dA_@\\e@^a@\\WFqA?c@BE?I?QDUDiAVKBK?W?y@@]?K?QBOBQFWJUHC@I@M@[BaA?yBEa@Ba@FUFIFWLYTQR_@j@EL}AhDeBbEkBnFIRc@jAaAjCm@fAKT]f@iCfDkErFs@|@mDfE_@`@YX]Z_DrBUNu@d@OL_@VYXkBjBCBo@t@qBvB}DfEqFbGw@v@q@f@e@Ru@Zu@Rq@FiABu@CYAoBSgDYuAO{Ee@]CcAGSASAiDEwCLwEPoCNuEV}QhAwH`@{Gf@aANyA\\}DdAqAd@oAd@C@a@LoAXsB^i@JsB`@{AZeB\\sEz@}Bb@wFbAiB\\yCj@aAPi@Jc@Ji@Pq@Ru@\\aBt@eAn@s@b@cAv@uAnA{@|@w@~@iBjCiAlBYb@[f@eBjCw@nAIHKJm@f@mBvA_BlAkDtBwFxCqAt@iBpA{ArA[Vc@h@_AjAiE~FsBxCwBzCgCrD_FbHiBlCqEvGiBjCeAzAiA`BW\\kD~EA@uB|Cs@hAKRQTq@zAA@m@vAkB~E_@`A{@hBQd@uClHuAlDcBjEuClHaCdGCDs@hBiAtC}@|BcAhCw@nBQd@y@tBaAdCUp@M^y@pCSx@Mf@[pAENg@tCe@dC?H[nCIbAOxASvBMtAGh@ObCKl@Sl@a@|@k@~@A@k@j@MH]Xm@j@GJo@~@m@`AUb@A@KTIZCRADAXCr@Ef@ETGPCJENKTA@MNMPUTaAv@[VcCzAm@VaAVm@PgAXwA^WHWJQJIHUPYZWZS^Ux@CHY|@Up@MPMROPC@MLYPUJ[N}Af@cAXKFWN]TURS\\KTKRGNCJo@hBe@fAw@hB_AnBgBpDKP{A`DCDm@x@?@YXA@_@Z]\\c@XSHSFc@NKBa@He@Fq@DS@i@@eDM}AG{AGoCKeAEe@EeAKyCm@UG{Bc@g@GKAGAQ?I?E?S@QBO@QBQHGBKBk@XGFUP_@j@U\\EDKZENk@bDu@nEUrAY`Ba@bBCDOXKTINMLMLMHYNMHWHODOFQDY@Y?gDQE?c@CsBOq@EW?M?O?OBA?YFUFYJC@]Vq@p@ABMXO\\EPGTERId@g@xDQdAALYbASb@A@Wb@QTUTUTWT[N]JIBq@La@Bc@@c@CSCOCIEgA_@kCqACAUIOGSCI?WC[?YDUDSJQLkAdA_A`A{@~@}@fAa@l@CDiA`COVSTUTSNi@VeC`AC@aBx@k@f@s@r@y@tAu@jBk@vBwB~H]nAoAnEE^YvBC|AC`A@TJlDd@bMFrBDfABzCGhKCzCKfDOtA[fBOj@Qr@Ob@eBtEWt@uAlDu@nB?@u@nBcBpEGP{A~D{@fB}@jB[p@MZOPy@jAa@l@g@l@a@j@INU\\MVO^g@|ACJoBbHoBdGwA|Eg@~AY~@c@vAQ^MPMNQNWNQJSHQDYBY?WAe@Oi@YmBuAkCsB[W_CkBqAcASOa@e@Y[i@k@iEwE[[WY_A_AWMOEMASASDQBSHSNQTMVMd@ATAFBd@Ld@^p@n@bAXn@vA`EXlA@HB\\?l@Ad@G^GVCLSd@Ub@WZSRYPa@Nc@H[AcAKuBg@_Aq@GIMMUY_CqFoBcDiAiAm@e@c@[uBeAkBo@KC{Ao@YQ]Wo@e@yA{A{BoDa@m@cDgF{AkBk@i@UKMG]Me@EwACiE@kAEg@E]Ie@QKEa@OcEqC}@o@o@a@_Ak@g@Ua@Ki@Kg@GM?a@?]?Q@y@Dm@Cc@G[ICA_@KA?y@c@o@o@g@q@k@uAIQi@sAQWMKMMIEYK_BUQASCUIYK[SWUMMWYEG]iAoAmFa@kAo@sAGGIKg@k@wBoB_DqCo@g@CCMKQIgAa@]Im@G}BEk@AM?UGWK_@YACa@e@aAiBU[Q_@QOQQ[SYI_@Me@Gy@KWC}Di@uBUAAg@EY?a@BYDMBSD]Hq@RoAb@{@\\c@NUF]HSDa@B]?yGH}E@c@@kA@[@QBODWJSH]XUR_B~Bq@bA"
+                     },
+                     "start_location" : {
+                        "lat" : 34.6826252,
+                        "lng" : 32.9104283
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 446
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 34.8483545,
+                        "lng" : 32.8068818
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "krtsEcqfgEA?YKk@H_@Fq@Hs@Lo@Bm@EQDYHi@LYN]TG@c@Lm@@WAi@C]EC?UIWg@OUW[K[?A"
+                     },
+                     "start_location" : {
+                        "lat" : 34.8447011,
+                        "lng" : 32.8067381
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "135 ft",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 34.8483088,
+                        "lng" : 32.807324
+                     },
+                     "html_instructions" : "Continue straight",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "eiusE_rfgEA[@SFg@"
+                     },
+                     "start_location" : {
+                        "lat" : 34.8483545,
+                        "lng" : 32.8068818
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "308 ft",
+                        "value" : 94
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 34.8489174,
+                        "lng" : 32.8077931
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e at \u003cb\u003eTimios Stavros Square\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "}husEwtfgEAYASAGEGCEEEECKCgAKI?"
+                     },
+                     "start_location" : {
+                        "lat" : 34.8483088,
+                        "lng" : 32.807324
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "413 ft",
+                        "value" : 126
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 34.8495989,
+                        "lng" : 32.8087518
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wlusEuwfgEG{@IWMSGKOWM[OIq@M"
+                     },
+                     "start_location" : {
+                        "lat" : 34.8489174,
+                        "lng" : 32.8077931
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "184 ft",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 34.8493473,
+                        "lng" : 32.8092738
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_qusEu}fgEZk@L[F_@"
+                     },
+                     "start_location" : {
+                        "lat" : 34.8495989,
+                        "lng" : 32.8087518
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "144 ft",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 34.8493119,
+                        "lng" : 32.8097497
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e at \u003cb\u003ePanagias Chalkidikis\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "mousE}`ggE?YDk@@Y"
+                     },
+                     "start_location" : {
+                        "lat" : 34.8493473,
+                        "lng" : 32.8092738
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "36 ft",
+                        "value" : 11
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 34.8492717,
+                        "lng" : 32.8098653
+                     },
+                     "html_instructions" : "Continue straight",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "eousE}cggEFW"
+                     },
+                     "start_location" : {
+                        "lat" : 34.8493119,
+                        "lng" : 32.8097497
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "RRX5+VW3, Omodos, Cyprus",
+               "end_location" : {
+                  "lat" : 34.8492717,
+                  "lng" : 32.8098653
+               },
+               "start_address" : "RRX5+VW3, Omodos, Cyprus",
+               "start_location" : {
+                  "lat" : 34.8492717,
+                  "lng" : 32.8098653
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 34.8492717,
+                        "lng" : 32.8098653
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "}nusEudggE"
+                     },
+                     "start_location" : {
+                        "lat" : 34.8492717,
+                        "lng" : 32.8098653
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "moyrEsgohEy@eBoCwHkCgHMs@JeDJgEBwBfAAvBNZA?SK_@o@q@_DyCmBuC_AiCGuAn@Gl@OxDmBhDmBt@m@~@gA|@{Af@]ZSV_@J]VUh@E^RPb@@n@Kn@N|Bv@zDbCtHpCjFrCjEbUxTtZhZnTbT~BlC`BzCpAbExBlPjD|[v@lOH~HEfMWjIk@rJo@zGeCjQeChLwJr_@cStv@sFfTwD~OsAzJk@tHQlKRxL|@~KDXzB~LfAfEpB`G|BnFxCnFxEbHbElF~B~Dr@dBlAbEx@|E\\dHGdJy@|x@CtJDvB\\xEfAzFhHvWzEfRrD|OpDpQ|AhI`BzG`@x@V`@XTt@VfAAx@MnAs@dEwBuDmN]mAyHlCuBHk@ByBFoJx@wBdAq@r@sBnCgA|@iBFeAHwB`@{B@kAZq@NyF@yAd@k@h@e@x@cElJuBbG_DtHgL`OeG~G{FvDiD`DqQxRiB~A{An@gBZ_C?gK_AqIs@}DGoJ^{f@rC}Iv@wGbBgEzAaJfBqa@xHiD|@qGfDyCfCsB|BiFdIsDpF{C~BkGbEiInEeEdD_A`AiGjIsQlWkNlSwMrRqMt[qSph@gEtK_DhJcAbEiBtL_BfQu@jBm@`AeCzB{BpD[fAMzBWbAi@x@wAlA_DrBeFzAyC`AqArAgA`DaAhBaAl@iExAu@d@i@p@c@dAuApDwBxEsEjJiAvAuB|AeBd@uCPoNi@kBK_Fy@eEu@qBHqAj@sAbBcAtEgChNi@dAcAt@eA`@k@FaEQoEYeABkAZuAnAk@~AiAxHq@vBuAdB{At@sAPgAAuBm@uDeBqAGo@Je@XeGnG_ClEi@j@}@f@iCbAmC`BmBhCaBbFkF~R]tEAvA~@lXCdPObIk@|Da@~AcF|MoErL}EdLsBjDuBvC{ArD{HrWwBvGeA`AqA^q@AoAi@uKmIaDuCgHyHwAmA]Gg@Be@Le@d@[|@C\\PjAnAtBpBpFZvABjAUjBi@hAk@n@{@`@_AFyDs@gA{@c@g@_CqFoBcDwBoByCaBmFuBmA}@yA{A{BoDeEuGgCuCc@ScASaHAsBKqBq@qJoGiAa@qAS_B@gB@_AQ_Bq@wAaBu@gB{@kB[YuCi@_Bm@cAeAmBwHa@kAw@{Aq@w@kImHeCaAeFOm@Sa@]kCkEyA_AwCe@}IgAcBLsDfAsC~@u@HwHHiJFmA^s@l@qCbE[KkAPeBV}AAoBl@e@VqANcBKUIWg@g@q@KmADaAC[UWsAOQ{@o@oA]e@q@MZk@T{@?YN}A"
+         },
+         "summary" : "Αξιού",
+         "warnings" : [],
+         "waypoint_order" : [ 0, 1 ]
+      }
+   ],
+   "status" : "OK"
+}

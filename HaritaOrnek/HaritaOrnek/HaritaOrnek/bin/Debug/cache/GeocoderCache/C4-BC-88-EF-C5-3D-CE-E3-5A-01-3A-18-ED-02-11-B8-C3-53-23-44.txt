@@ -1,0 +1,49 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sakarya",
+               "short_name" : "Sakarya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sakarya, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.17934,
+                  "lng" : 31.013034
+               },
+               "southwest" : {
+                  "lat" : 40.2880759,
+                  "lng" : 29.928125
+               }
+            },
+            "location" : {
+               "lat" : 40.6939973,
+               "lng" : 30.4357631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.17934,
+                  "lng" : 31.013034
+               },
+               "southwest" : {
+                  "lat" : 40.2880759,
+                  "lng" : 29.928125
+               }
+            }
+         },
+         "place_id" : "ChIJGxhSlha1zBQRAZKNx6UHqOs",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

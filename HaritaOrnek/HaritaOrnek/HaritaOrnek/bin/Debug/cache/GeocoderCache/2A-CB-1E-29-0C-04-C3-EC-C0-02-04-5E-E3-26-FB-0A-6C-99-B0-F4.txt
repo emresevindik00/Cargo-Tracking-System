@@ -1,0 +1,54 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Başakşehir",
+               "short_name" : "Başakşehir",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Başakşehir/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.149446,
+                  "lng" : 28.82392399999999
+               },
+               "southwest" : {
+                  "lat" : 41.057785,
+                  "lng" : 28.639362
+               }
+            },
+            "location" : {
+               "lat" : 41.1015173,
+               "lng" : 28.7897558
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.149446,
+                  "lng" : 28.82392399999999
+               },
+               "southwest" : {
+                  "lat" : 41.057785,
+                  "lng" : 28.639362
+               }
+            }
+         },
+         "place_id" : "ChIJNRDEVJuoyhQRapTDYYXH9u8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

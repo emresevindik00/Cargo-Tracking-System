@@ -1,0 +1,64 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Havzan",
+               "short_name" : "Havzan",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Meram",
+               "short_name" : "Meram",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Konya",
+               "short_name" : "Konya",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "42090",
+               "short_name" : "42090",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Havzan, 42090 Meram/Konya, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.8608459,
+                  "lng" : 32.470993
+               },
+               "southwest" : {
+                  "lat" : 37.860799,
+                  "lng" : 32.4706689
+               }
+            },
+            "location" : {
+               "lat" : 37.8608224,
+               "lng" : 32.4708309
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.8621714302915,
+                  "lng" : 32.4721799302915
+               },
+               "southwest" : {
+                  "lat" : 37.8594734697085,
+                  "lng" : 32.4694819697085
+               }
+            }
+         },
+         "place_id" : "ChIJ8cU63keE0BQRtDi-W0ftBhM",
+         "types" : [ "establishment", "premise" ]
+      }
+   ],
+   "status" : "OK"
+}

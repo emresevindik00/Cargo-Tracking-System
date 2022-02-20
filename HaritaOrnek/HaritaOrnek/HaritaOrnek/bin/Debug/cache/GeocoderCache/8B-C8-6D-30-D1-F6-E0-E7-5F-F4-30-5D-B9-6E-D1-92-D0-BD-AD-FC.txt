@@ -1,0 +1,54 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arnavutköy",
+               "short_name" : "Arnavutköy",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arnavutköy/İstanbul, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.408193,
+                  "lng" : 28.8213239
+               },
+               "southwest" : {
+                  "lat" : 41.089746,
+                  "lng" : 28.4887969
+               }
+            },
+            "location" : {
+               "lat" : 41.2384446,
+               "lng" : 28.6264521
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.408193,
+                  "lng" : 28.8213239
+               },
+               "southwest" : {
+                  "lat" : 41.089746,
+                  "lng" : 28.4887969
+               }
+            }
+         },
+         "place_id" : "ChIJT0D7JGpVtRQRzqQ660UTuxA",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Çapa",
+               "short_name" : "Çapa",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Topkapı",
+               "short_name" : "Topkapı",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Fatih",
+               "short_name" : "Fatih",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "İstanbul",
+               "short_name" : "İstanbul",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "34093",
+               "short_name" : "34093",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Çapa, Topkapı, 34093 Fatih/İstanbul, Turkey",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.0159409,
+               "lng" : 28.9333451
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0243594,
+                  "lng" : 28.9493525
+               },
+               "southwest" : {
+                  "lat" : 41.0075214,
+                  "lng" : 28.9173377
+               }
+            }
+         },
+         "place_id" : "ChIJMwyQYje6yhQRWXZMikIcDrc",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bağdat Caddesi",
+               "short_name" : "Bağdat Cd.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "İzmit",
+               "short_name" : "İzmit",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kocaeli",
+               "short_name" : "Kocaeli",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bağdat Cd., İzmit/Kocaeli, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7693522,
+                  "lng" : 29.9581538
+               },
+               "southwest" : {
+                  "lat" : 40.762096,
+                  "lng" : 29.9400837
+               }
+            },
+            "location" : {
+               "lat" : 40.7671833,
+               "lng" : 29.9494335
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7693522,
+                  "lng" : 29.9581538
+               },
+               "southwest" : {
+                  "lat" : 40.762096,
+                  "lng" : 29.9400837
+               }
+            }
+         },
+         "place_id" : "ChIJSSqVkYxPyxQRC3NpTN0oPlY",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

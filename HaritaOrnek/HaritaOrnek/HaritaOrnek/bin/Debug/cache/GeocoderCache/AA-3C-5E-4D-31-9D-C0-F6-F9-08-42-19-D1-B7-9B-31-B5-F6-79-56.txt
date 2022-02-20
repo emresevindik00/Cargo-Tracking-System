@@ -1,0 +1,54 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sincan",
+               "short_name" : "Sincan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ankara",
+               "short_name" : "Ankara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Turkey",
+               "short_name" : "TR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sincan/Ankara, Turkey",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.158816,
+                  "lng" : 32.60545690000001
+               },
+               "southwest" : {
+                  "lat" : 39.618199,
+                  "lng" : 32.234407
+               }
+            },
+            "location" : {
+               "lat" : 39.8544476,
+               "lng" : 32.424074
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.158816,
+                  "lng" : 32.60545690000001
+               },
+               "southwest" : {
+                  "lat" : 39.618199,
+                  "lng" : 32.234407
+               }
+            }
+         },
+         "place_id" : "ChIJddj13cMh0xQR3u7yxleOnHI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
